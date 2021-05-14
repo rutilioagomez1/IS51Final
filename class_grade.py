@@ -16,6 +16,23 @@ create a function to calculate the percentage of grades that are above the avera
 
 """
 
+""" Pseudocode
+scores
+iterator, accumulator = 0
+loop through scores
+    accumulator = accumulator + scores
+    iterator = iterator + 1
+output = accumulator / total score
+print average
+
+# calc_average(grades):
+total=
+for num in grades:
+    total += int(num)
+average = total / 24
+print (average)
+"""
+
 
 
 
